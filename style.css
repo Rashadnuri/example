@@ -1,19 +1,5 @@
-.wrapper {
-    width: 80%;
-    margin: auto;
-    display: flex;
-    height: 100vh;
-    justify-content: center;
-}
-
-.left { 
-    width: 22%;
-    height: 40%;
-    background-color: coral;
-}
-
-.right { 
-    width: 75%;
-    height: calc(100%-300px);
-    background-color: coral;
+.text { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 2em;
+    color: darkslategrey;
 }
